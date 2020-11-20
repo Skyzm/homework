@@ -30,3 +30,4 @@ print("请学号为"+str(random.randint(2019012001,2019012100))+"同学回答问
 ```
 ### 代码段
 `print("hello world")`
+
